@@ -1,8 +1,10 @@
 ## Community Detection With Genetic Algorithm
 
-From time to time, social network analysis requires us to classify the number groups made up a given network. This simple module is a python implementation of a locus based genetic algorithm for community detection by Clara Pizzuti.[1] This algorithm is particularly good at detecting communities in which we don't know their number beforehand. This algorithm finds communities by its structure: it classify densely connected nodes into a group. Although it runs slow, this algorithm will help us in preliminary analysis of a social network. 
+From time to time, social network analysis requires us to classify the number of groups from a given network. This simple module is a python implementation of a locus based genetic algorithm for community detection by Clara Pizzuti.[1] 
 
-#### Example use:
+This algorithm is particularly good at detecting communities in which we don't know their number beforehand. This algorithm finds communities by its structure: it classify densely connected nodes into a group. Although it runs slow, this algorithm will help us in preliminary analysis of a social network. 
+
+#### Usage
 
 ```
 import gacomm as gc
@@ -17,6 +19,6 @@ gc.community(N,E)
 
 ```
 
-Reference:
+#### Reference
 
 [1. **Pizzuti**, C. (2008). Ga-net: A genetic algorithm for commu-nity detection in social networks. In *Inter conf on parallel problem solving from nature*, pages 1081–1090.Springer.](https://www.researchgate.net/publication/220701568_GA-Net_A_Genetic_Algorithm_for_Community_Detection_in_Social_Networks)
