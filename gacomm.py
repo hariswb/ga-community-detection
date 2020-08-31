@@ -2,7 +2,7 @@ import networkx as nx
 import numpy as np
 import pandas as pd
 
-def community(nodes,edges,population=300,generation=30,r=1.5):
+def community_detection(nodes,edges,population=300,generation=30,r=1.5):
     
     graph=nx.Graph()
     graph.add_nodes_from(nodes)
