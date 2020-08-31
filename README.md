@@ -17,6 +17,6 @@ gc.community(N,E)
 
 ```
 
-reference:
+Reference:
 
-[**Pizzuti**, C. (2008). Ga-net: A genetic algorithm for commu-nity detection in social networks. In *Inter conf on par-allel problem solving from nature*, pages 1081–1090.Springer.](https://www.researchgate.net/publication/220701568_GA-Net_A_Genetic_Algorithm_for_Community_Detection_in_Social_Networks)
+[1. **Pizzuti**, C. (2008). Ga-net: A genetic algorithm for commu-nity detection in social networks. In *Inter conf on par-allel problem solving from nature*, pages 1081–1090.Springer.](https://www.researchgate.net/publication/220701568_GA-Net_A_Genetic_Algorithm_for_Community_Detection_in_Social_Networks)
